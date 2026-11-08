@@ -1,0 +1,10 @@
+"peringkat","penyebab","n_kejadian","jam_downtime","pct_dari_total","pct_kumulatif"
+1,Maintenance Terjadwal,135,240.0,14.2,14.2
+2,Slippery Road,133,222.1,13.1,27.3
+3,Antrian Fuel,132,204.0,12.1,39.4
+4,Breakdown Mekanik,122,183.1,10.8,50.2
+5,Cuaca (Hujan),113,180.9,10.7,60.9
+6,Idle - No Instruction,107,174.4,10.3,71.2
+7,Blasting Delay,122,172.4,10.2,81.4
+8,Kurang Operator,118,159.0,9.4,90.8
+9,Breakdown Elektrik,103,156.3,9.2,100.0

@@ -1,0 +1,6 @@
+"bucket_jarak","jarak_min_km","jarak_max_km","n_baris","attainment_pct","avg_ton_per_baris"
+Q1,1.23,3.14,541,88.5,3742.6
+Q2,3.14,3.79,541,86.0,3088.4
+Q3,3.79,4.56,541,88.7,2039.1
+Q4,4.56,6.79,503,87.6,1217.8
+Tidak diketahui,,,37,88.7,2569.4

@@ -1,0 +1,14 @@
+equipment_id,equipment_type,model,year_operational,fuel_capacity_liter
+EXC-01,Excavator,Komatsu GD825,2019,900
+EXC-02,Excavator,Komatsu HD785,2017,300
+EXC-03,Excavator,Komatsu GD825,2017,1200
+EXC-04,Excavator,Komatsu HD785,2022,300
+DT-11,Dump Truck,Cat 793,2017,900
+DT-12,Dump Truck,Komatsu GD825,2015,900
+DT-13,Dump Truck,Cat D10T,2022,300
+DT-14,Dump Truck,Komatsu GD825,2021,1200
+DT-15,Dump Truck,Komatsu PC2000,2015,300
+DT-16,Dump Truck,Komatsu PC2000,2019,500
+DZ-21,Dozer,Cat D10T,2020,900
+DZ-22,Dozer,Komatsu PC2000,2020,900
+GR-31,Grader,Komatsu GD825,2017,1200
