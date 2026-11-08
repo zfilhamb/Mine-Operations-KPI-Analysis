@@ -356,6 +356,6 @@ The dashboard is designed to monitor mining operations KPIs at a glance, with ea
 
 ---
 
-*SQL: [Cleaning & Feature Engineering (mine_operation.sql)](SQL%20Script/mine_operation.sql)*
+*SQL: [Cleaning & Feature Engineering (mine_operation.sql)](Script/mine_operation.sql)*
 
 *Dashboard: [Looker Studio](https://datastudio.google.com/reporting/96eb90f8-dc78-4192-9b84-0c592a355634)*
